@@ -1,0 +1,11 @@
+# Dataset
+creditcard.csv
+
+# Python cache
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
